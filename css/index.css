@@ -340,6 +340,7 @@ img {
   border: 1px solid #C0C0C0;
   cursor: pointer;
   font-size: 1.8rem;
+  position: relative;
 }
 @media (max-width: 500px) {
   .home .content-pick .destination .btn {
